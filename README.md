@@ -33,4 +33,4 @@ The primary objective of this project is to implement AWS Continuous Compliance 
 The outcome of the project was the successful establishment of a fully functional automated security and compliance monitoring loop within an AWS environment.
 
 ## Steps
-<a href = "">CC & CM</a>
+<a href = "https://github.com/ch1n4x4/AWS-CONTINOUS-COMPLIANCE-AND-CHANGE-MANAGEMENT/blob/main/Copy%20of%20CC_and_CM_ALT_SOE_025_5707.pdf">CC & CM</a>
